@@ -1,0 +1,14 @@
+kérdések:
+-budget
+-kinézet
+-funkciók
+-általános
+budget/kinézet:
+		-hogy nézzen ki? 3d nyomtatott burkolat/plexi burkolat/dibond burkolat(szálhúzott alu műanyag erősítéssel)
+		-mekkora,hány led,wifi, extra kontroller, hűtés,akku,milyen ledek
+		-méret,vakupapucs, asztalra támasztható, gooseneck felfüggesztéssel
+funkciók:
+		-ledek: mekkora teljesítmény, legyen-e aksis, legyen inkább külső táplálású, legyen esetleg power bankra csatlakoztatható
+általános:
+		 -hogyan lesz programozva, mennyire kell értened, elektronikát mennyire kell értened
+		 
