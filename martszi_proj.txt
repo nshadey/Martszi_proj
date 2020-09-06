@@ -12,3 +12,5 @@ funkciók:
 általános:
 		 -hogyan lesz programozva, mennyire kell értened, elektronikát mennyire kell értened
 		 
+		 
+		 kaki
